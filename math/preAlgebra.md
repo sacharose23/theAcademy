@@ -1,5 +1,4 @@
-################################################################
-################################################################
+
 
 SOURCES: www.virtualnerd.com
 Supported by Pearson Education
@@ -24,8 +23,7 @@ Guiding Principles aligned with The Academy
 "When students are confused, they need to be able to focus on resolving their confusion, so we must not distract them with extraneous stimuli or with too much esthetic variation."
 
 
-################################################################
-################################################################
+-----
 
 #Middle School Math Grades 6-8 
 
