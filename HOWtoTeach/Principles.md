@@ -67,3 +67,4 @@ When rote learning cannot be avoided a "Spoon full of sugar" method should be us
 
 #TODO:
 *	bring the reading level of this page down
+*	figure out priorities
