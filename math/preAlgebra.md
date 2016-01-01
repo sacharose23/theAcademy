@@ -6,8 +6,6 @@ Supported by Pearson Education
 
 ** Need to rearrange/edit content since Terms of Use Policies say so.
 
-______
-
 Guiding Principles aligned with The Academy
 
 1. All students are different in their learning processes.
