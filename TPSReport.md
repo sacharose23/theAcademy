@@ -63,6 +63,7 @@ Letter Grade:
 
 ### Instructor Message:
 <string> Lorem Ipsum </string>  
+Instructor Name:  
 
 ### Next Session
 Date & time:
