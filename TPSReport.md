@@ -8,16 +8,16 @@ Below is the data model...
 ## Client Information 
 
 ### Parent  
-Name:
-Student Relationship:  
+Name:  
+Student Relationship:    
 Phone number:  
 Email:  
 
 ### Student:
-Name:
-Year of Graduation:
-School: <input> Reference Pre existing List </input>    
-Phone number:
+Name:  
+Year of Graduation:  
+School: <input> Reference Pre existing List </input>      
+Phone number:  
 Email:  
 Extracurricular activities: <input> Reference Pre existing List </input>   
 Home address:  
@@ -31,7 +31,7 @@ Email:
 ------
 
 ## Goals  
-Date & Time:
+Date & Time:  
 Goal Deadline:  
 Current Goal:    
 
