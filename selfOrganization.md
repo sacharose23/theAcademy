@@ -21,3 +21,24 @@ Small groups have many advantages over other structures. They also have disadvan
 
 ## Results
 We hope to publish competitive analysis of our program versus existing programs
+
+
+## Teaching Standards 
+Our intention is to create standards for self-organizing teachers.   
+Each module's standards document will include: 
+*	Materials 
+*	Prerequisite Knowledge/Prep
+*	Recommended Instructional Tactics 
+*	Checkpoints for instructor
+*	Activities for students
+*	Objectives
+*	Extended Versions/Bonus Mini-module
+
+
+
+
+
+
+
+
+
