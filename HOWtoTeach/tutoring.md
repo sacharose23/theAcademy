@@ -58,8 +58,16 @@ Patience is vital especially when mentoring. You student will have moments of st
 
 ## ROLE MODEL  
 
-Remember your actions are constantly being assessed. Advice and wisdom is more powerful if you lead by example. 
+Remember your actions are constantly being assessed. Advice and wisdom is more powerful if you lead by example.   
 
+
+
+## POSITIVITY  
+
+People can feed off of your energy. It is important to always maintain a consistent positive influence over the student and parents.  
+
+
+ 
 
 	
 	
